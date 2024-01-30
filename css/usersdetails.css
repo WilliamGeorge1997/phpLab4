@@ -1,0 +1,12 @@
+thead,tbody{
+    text-align: center;
+}
+td#gender{
+    text-transform: uppercase;
+}
+a i {
+    padding: 0rem 0.625rem;
+}
+#lastIcon{
+    padding-right: 0rem !important;
+}
